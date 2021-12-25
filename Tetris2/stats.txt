@@ -1,0 +1,7 @@
+bib        0       0         0    
+joe        340     0         8    
+Sam        540     0         9    
+Gordon     0       0         0    
+Gordon     0       0         0     
+Bob        0       0         0    
+Shawn      0       1         0    
